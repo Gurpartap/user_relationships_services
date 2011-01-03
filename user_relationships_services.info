@@ -1,0 +1,5 @@
+name = "User Relationships Services"
+description = "Interfaces user relationships methods to services module implementations."
+package = "User Relationships"
+dependencies[] = "services"
+dependencies[] = "user_relationships_api"
