@@ -3,7 +3,7 @@ User Relationships Services
 
 user_relationships_services is a Drupal (http://drupal.org) module which exposes methods, to create, maintain, destroy user relationships, to services module.
 
-This is a complete rewrite of the original user_relationship_services module in the user_relationships (http://drupal.org/project/user_relationships) suite.
+This is a complete rewrite and a different version of the original user_relationship_services module in the user_relationships (http://drupal.org/project/user_relationships) suite.
 
 Services provided
 --------
@@ -37,3 +37,23 @@ Services provided
 
     Input: (int) rid, (string) reason [options: cancel, disapprove, remove].
     Output: None.
+
+
+License
+-------
+
+Copyright (c) 2010 Gurpartap Singh, http://gurpartap.com/
+
+This code is licensed under the MIT License
+
+You are free:
+
+ * to Share — to copy, distribute and transmit the work
+ * to Remix — to adapt the work
+
+Under the following conditions:
+
+ * The copyright notice and license shall be included in all copies or substantial portions of the software.
+ * Any of the above conditions can be waived if you get permission from the copyright holder.
+
+See bundled MIT-LICENSE.txt file for detailed license terms.
