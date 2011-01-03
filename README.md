@@ -3,7 +3,13 @@ User Relationships Services
 
 user_relationships_services is a Drupal (http://drupal.org) module which exposes methods, to create, maintain, destroy user relationships, to services module.
 
-This is a complete rewrite and a different version of the original user_relationship_services module in the user_relationships (http://drupal.org/project/user_relationships) suite.
+This is a complete rewrite and a different version from the original "user_relationship_services" module in the user_relationships suite.
+
+Requirements
+--------
+
+ * http://drupal.org/project/user_relationships
+ * http://drupal.org/project/services
 
 Services provided
 --------

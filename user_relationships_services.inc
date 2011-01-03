@@ -1,6 +1,5 @@
 <?php
 
- 
 // Loading the API functions if not already loaded
 module_load_include('inc', 'user_relationships_api', 'user_relationships.api');
 
